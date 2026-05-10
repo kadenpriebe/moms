@@ -9,7 +9,7 @@
 
 body {
 	background-color: rgb(255, 193, 166);
-	background-image: url('../images/bg.png');
+	background-image: url('../images/bg.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -20,6 +20,6 @@ body {
 
 @media (max-width: 544px) {
 	body {
-		background-image: url('../images/bg-mobile.png');
+		background-image: url('../images/bg.jpeg');
 	}
 }
