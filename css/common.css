@@ -21,5 +21,6 @@ body {
 @media (max-width: 544px) {
 	body {
 		background-image: url('../images/bg.jpeg');
+		background-position: left center;
 	}
 }

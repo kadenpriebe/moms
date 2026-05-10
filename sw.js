@@ -1,4 +1,4 @@
-const cacheName = 'moms-v10';
+const cacheName = 'moms-v11';
 
 self.addEventListener('install', event => {
 	self.skipWaiting();
