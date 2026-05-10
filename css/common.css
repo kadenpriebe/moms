@@ -20,7 +20,7 @@ body {
 
 @media (max-width: 544px) {
 	body {
-		background-image: url('../images/bg.jpeg');
-		background-position: 62% center;
+		background-image: url('../images/bg-mobile.png');
+		background-position: center;
 	}
 }
